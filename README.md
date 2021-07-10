@@ -163,6 +163,6 @@ Contribuições são o que tornam a comunidade de código aberto um lugar incrí
 Se quiser "fortalecer" aí, pode abrir o pull request!! :heart_eyes:
 
 ## Licença
-[GPL-3.0 License ](https://github.com/taffarel55/Interpolador/blob/master/LICENSE)
+[GPL-3.0 License ](https://github.com/taffarel55/PontoFlutuante/blob/main/LICENSE)
 
 <div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
